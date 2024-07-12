@@ -33,9 +33,9 @@
 
 ## 2024/07/13(토)
 📋 programmers LV1 푼 문제 링크
-1. []()
-2. []()
-3. []()
+1. [행렬의 덧셈 - 12950](https://github.com/imnaagyeong/javascript_coding_test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12950.%E2%80%85%ED%96%89%EB%A0%AC%EC%9D%98%E2%80%85%EB%8D%A7%EC%85%88)
+2. [이상한 문자 만들기 - 12930](https://github.com/imnaagyeong/javascript_coding_test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12930.%E2%80%85%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%EB%AC%B8%EC%9E%90%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0)
+3. [부족한 금액 계산하기 - 82612](https://github.com/imnaagyeong/javascript_coding_test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/82612.%E2%80%85%EB%B6%80%EC%A1%B1%ED%95%9C%E2%80%85%EA%B8%88%EC%95%A1%E2%80%85%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0)
 
 ## 2024/07/14(일)
 📋 programmers LV1 푼 문제 링크
