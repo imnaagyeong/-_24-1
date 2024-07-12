@@ -27,9 +27,9 @@
 
 ## 2024/07/12(금)
 📋 programmers LV1 푼 문제 링크
-1. []()
-2. []()
-3. []()
+1. [없는 숫자 더하기 - 86051](https://github.com/imnaagyeong/javascript_coding_test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/86051.%E2%80%85%EC%97%86%EB%8A%94%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0)
+2. [음양 더하기 - 76501](https://github.com/imnaagyeong/javascript_coding_test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/76501.%E2%80%85%EC%9D%8C%EC%96%91%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0)
+3. [서울에서 김서방 찾기 - 12919](https://github.com/imnaagyeong/javascript_coding_test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12919.%E2%80%85%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%E2%80%85%EA%B9%80%EC%84%9C%EB%B0%A9%E2%80%85%EC%B0%BE%EA%B8%B0)
 
 ## 2024/07/13(토)
 📋 programmers LV1 푼 문제 링크
