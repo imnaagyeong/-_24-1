@@ -21,9 +21,9 @@
 
 ## 2024/07/11(목)
 📋 programmers LV1 푼 문제 링크
-1. []()
-2. []()
-3. []()
+1. [핸드폰 번호 가리기 - 12948](https://github.com/imnaagyeong/javascript_coding_test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12948.%E2%80%85%ED%95%B8%EB%93%9C%ED%8F%B0%E2%80%85%EB%B2%88%ED%98%B8%E2%80%85%EA%B0%80%EB%A6%AC%EA%B8%B0)
+2. [제일 작은 수 제거하기 - 12935](https://github.com/imnaagyeong/javascript_coding_test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12935.%E2%80%85%EC%A0%9C%EC%9D%BC%E2%80%85%EC%9E%91%EC%9D%80%E2%80%85%EC%88%98%E2%80%85%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
+3. [나누어 떨어지는 숫자 배열 - 12910](https://github.com/imnaagyeong/javascript_coding_test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12910.%E2%80%85%EB%82%98%EB%88%84%EC%96%B4%E2%80%85%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EB%B0%B0%EC%97%B4)
 
 ## 2024/07/12(금)
 📋 programmers LV1 푼 문제 링크
