@@ -39,7 +39,7 @@
 
 ## 2024/07/14(일)
 📋 programmers LV1 푼 문제 링크
-1. []()
-2. []()
-3. []()
+1. [하샤드 수 - 12947](https://github.com/imnaagyeong/javascript_coding_test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12947.%E2%80%85%ED%95%98%EC%83%A4%EB%93%9C%E2%80%85%EC%88%98)
+2. [3진법 뒤집기 - 68935](https://github.com/imnaagyeong/javascript_coding_test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/68935.%E2%80%853%EC%A7%84%EB%B2%95%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0)
+3. [K번째수 - 42748](https://github.com/imnaagyeong/javascript_coding_test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/42748.%E2%80%85K%EB%B2%88%EC%A7%B8%EC%88%98)
    
