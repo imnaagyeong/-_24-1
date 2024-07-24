@@ -14,8 +14,8 @@
    
 ## 2024/07/10(수)
 📋 programmers LV1 푼 문제 링크
-1. []()
-2. []()
+1. [평균 구하기 - 12944](https://github.com/imnaagyeong/javascript_coding_test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12944.%E2%80%85%ED%8F%89%EA%B7%A0%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0)
+2. [정수 제곱근 판별 - 12934](https://github.com/imnaagyeong/javascript_coding_test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12934.%E2%80%85%EC%A0%95%EC%88%98%E2%80%85%EC%A0%9C%EA%B3%B1%EA%B7%BC%E2%80%85%ED%8C%90%EB%B3%84)
 3. []()
    
 ## 2024/07/11(목)
